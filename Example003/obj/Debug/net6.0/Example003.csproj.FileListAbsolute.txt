@@ -1,0 +1,15 @@
+/home/t1/Рабочий стол/Examples/Example003/bin/Debug/net6.0/Example003
+/home/t1/Рабочий стол/Examples/Example003/bin/Debug/net6.0/Example003.deps.json
+/home/t1/Рабочий стол/Examples/Example003/bin/Debug/net6.0/Example003.runtimeconfig.json
+/home/t1/Рабочий стол/Examples/Example003/bin/Debug/net6.0/Example003.dll
+/home/t1/Рабочий стол/Examples/Example003/bin/Debug/net6.0/ref/Example003.dll
+/home/t1/Рабочий стол/Examples/Example003/bin/Debug/net6.0/Example003.pdb
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/Example003.csproj.AssemblyReference.cache
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/Example003.GeneratedMSBuildEditorConfig.editorconfig
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/Example003.AssemblyInfoInputs.cache
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/Example003.AssemblyInfo.cs
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/Example003.csproj.CoreCompileInputs.cache
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/Example003.dll
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/ref/Example003.dll
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/Example003.pdb
+/home/t1/Рабочий стол/Examples/Example003/obj/Debug/net6.0/Example003.genruntimeconfig.cache
