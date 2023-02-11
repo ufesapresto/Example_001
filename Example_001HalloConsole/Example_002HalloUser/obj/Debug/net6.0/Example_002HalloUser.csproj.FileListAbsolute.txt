@@ -1,0 +1,15 @@
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/bin/Debug/net6.0/Example_002HalloUser
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/bin/Debug/net6.0/Example_002HalloUser.deps.json
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/bin/Debug/net6.0/Example_002HalloUser.runtimeconfig.json
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/bin/Debug/net6.0/Example_002HalloUser.dll
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/bin/Debug/net6.0/ref/Example_002HalloUser.dll
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/bin/Debug/net6.0/Example_002HalloUser.pdb
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/Example_002HalloUser.csproj.AssemblyReference.cache
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/Example_002HalloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/Example_002HalloUser.AssemblyInfoInputs.cache
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/Example_002HalloUser.AssemblyInfo.cs
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/Example_002HalloUser.csproj.CoreCompileInputs.cache
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/Example_002HalloUser.dll
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/ref/Example_002HalloUser.dll
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/Example_002HalloUser.pdb
+/home/t1/Рабочий стол/Examples/Example_001HalloConsole/Example_002HalloUser/obj/Debug/net6.0/Example_002HalloUser.genruntimeconfig.cache
